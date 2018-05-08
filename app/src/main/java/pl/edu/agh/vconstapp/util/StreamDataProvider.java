@@ -1,4 +1,4 @@
-package pl.edu.agh.vconstapp;
+package pl.edu.agh.vconstapp.util;
 
 public interface StreamDataProvider<E> {
     E get(int idx);
